@@ -46,11 +46,11 @@ v2.1 (1.91MB)
 
 <img src="/screenshots/s8.png" alt="screenshot" title="screenshot" width="270" height="486" />   <img src="/screenshots/s9.png" alt="screenshot" title="screenshot" width="270" height="486" />
 
-###Contributors
+### Contributors
 
 [drakeet](https://github.com/drakeet) [junyuecao](https://github.com/junyuecao) [echodjb](https://github.com/echodjb) [iamwent](https://github.com/iamwent) [代码家](https://github.com/daimajia) [linroid](https://github.com/linroid) [SharerMax](https://github.com/SharerMax) [XieQingShan](https://github.com/XieQingShan) [tankcong](https://github.com/tankcong) [zeng1990](https://github.com/zeng1990)
 
-###特别鸣谢
+### 特别鸣谢
 
 [XiNGRZ](https://github.com/xingrz) [fython](https://github.com/fython)
 
